@@ -1,0 +1,111 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Design System/Atoms/Flex Default 1`] = `
+<div
+  className="sc-bdfBwQ sc-dlfnbm gCZJdw ipogOS atom-flex"
+>
+  <div
+    className="sc-bdfBwQ sc-dlfnbm gCZJdw ipogOS atom-flex"
+  >
+    item 1
+  </div>
+  <div
+    className="sc-bdfBwQ sc-dlfnbm gCZJdw ipogOS atom-flex"
+  >
+    item 2
+  </div>
+  <div
+    className="sc-bdfBwQ sc-dlfnbm gCZJdw ipogOS atom-flex"
+  >
+    item 3
+  </div>
+</div>
+`;
+
+exports[`Storyshots Design System/Atoms/Flex Flex Column 1`] = `
+<div
+  className="sc-bdfBwQ sc-dlfnbm fYkYxE hWhMiK atom-flex"
+>
+  <div
+    className="sc-bdfBwQ sc-dlfnbm fZWhUU keTqgB atom-flex"
+  >
+    item 1
+  </div>
+  <div
+    className="sc-bdfBwQ sc-dlfnbm djJUvF hvtvHW atom-flex"
+  >
+    item 2
+  </div>
+  <div
+    className="sc-bdfBwQ sc-dlfnbm gohYNk cDVMYR atom-flex"
+  >
+    item 3
+  </div>
+</div>
+`;
+
+exports[`Storyshots Design System/Atoms/Flex Flex With Box 1`] = `
+<div
+  className="sc-bdfBwQ sc-dlfnbm gCZJdw ipogOS atom-flex"
+>
+  <div
+    className="sc-bdfBwQ sc-gsTCUz fZWhUU atom-box"
+  >
+    item 1
+  </div>
+  <div
+    className="sc-bdfBwQ sc-gsTCUz djJUvF kEVXlA atom-box"
+  >
+    item 2
+  </div>
+  <div
+    className="sc-bdfBwQ sc-gsTCUz gohYNk atom-box"
+  >
+    item 3
+  </div>
+</div>
+`;
+
+exports[`Storyshots Design System/Atoms/Flex Strech 1`] = `
+<div
+  className="sc-bdfBwQ sc-dlfnbm gCZJdw ipogOS atom-flex"
+>
+  <div
+    className="sc-bdfBwQ sc-dlfnbm bDUIYP bmJUdy atom-flex"
+  >
+    item 1
+  </div>
+  <div
+    className="sc-bdfBwQ sc-dlfnbm cAVUUR bmJUdy atom-flex"
+  >
+    item 2
+  </div>
+  <div
+    className="sc-bdfBwQ sc-dlfnbm bDUIYP bmJUdy atom-flex"
+  >
+    item 2
+  </div>
+</div>
+`;
+
+exports[`Storyshots Design System/Atoms/Flex Strech Midle 1`] = `
+<div
+  className="sc-bdfBwQ sc-dlfnbm gCZJdw ipogOS atom-flex"
+>
+  <div
+    className="sc-bdfBwQ sc-dlfnbm gmbNHY bcqxBh atom-flex"
+  >
+    item 1
+  </div>
+  <div
+    className="sc-bdfBwQ sc-dlfnbm bvzpIR cpBMnW atom-flex"
+  >
+    item 2
+  </div>
+  <div
+    className="sc-bdfBwQ sc-dlfnbm kPtRme iezgIl atom-flex"
+  >
+    item 3
+  </div>
+</div>
+`;

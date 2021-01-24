@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Design System/Atoms/Element Default 1`] = `
+<div
+  className="sc-bdfBwQ ea-dIeR"
+  color="white"
+>
+  This is base element for the design system and can be used as different HTML elements
+</div>
+`;
+
+exports[`Storyshots Design System/Atoms/Element Element as Button 1`] = `
+<button
+  className="sc-bdfBwQ hrFlUG"
+  color="white"
+  fontSize={2}
+  width="200px"
+>
+  Button
+</button>
+`;
+
+exports[`Storyshots Design System/Atoms/Element Styles 1`] = `
+<div
+  className="sc-bdfBwQ dBKuwo"
+  fontSize={0}
+>
+  Example: How to style a paragraph
+</div>
+`;

@@ -1,0 +1,4 @@
+**/src/**/*.stories.mdx
+**/node_module/*
+**/__snapshots__/**
+**/__image_snapshots__/**
